@@ -1,16 +1,8 @@
-<html>
-    <head>  
-        <title>styl zewnetrzny</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        
-    </head>
-    <body bgcolor="blue:30pt">
-	<p bgcolor="green:20pt">
-        <p ;) - oczko bgcolor="green">
-		<p :P - wytykanie jezyka bgcolor="color">
-		<p  >
-		<p >
-		<p >
-		<p >
-    </body>
-</html>
+body{
+    color: blue;
+    font-size: 30pt;
+}
+p{
+    color: green;
+    font-size: 20pt;
+}
